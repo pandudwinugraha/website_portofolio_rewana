@@ -2,10 +2,11 @@
   "name": "rewana_portoweb",
   "version": "0.1.0",
   "private": true,
+  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "output": "next export",
+    "export": "next export",
     "start": "next start",
     "lint": "next lint"
   },
